@@ -1,0 +1,30 @@
+# Sequential LED Runner Using 555 Timer
+
+This project showcases a PCB-based sequential LED runner built using the 555 timer IC. The 555 is configured in astable mode to generate continuous pulses, which drive LEDs in a predefined order to create a smooth running-light effect. 
+The PCB layout ensures neat routing, stable operation, and reliable LED switching.
+
+Note: The circuit is designed and implemented on PCB but has not been simulated yet.
+
+# Features
+1. 555 timer in astable mode
+2. Sequential LED ON/OFF pattern
+3. Running-light (LED chaser) effect
+4. Clean and compact PCB layout
+5. Beginner-friendly electronics project
+
+# How It Works
+1. The 555 timer generates continuous pulses
+2. These pulses are fed to a sequencing stage (counter/logic or discrete design)
+3. LEDs turn ON and OFF one after another, following the pulse timing
+4. The PCB ensures consistent operation without loose connections
+
+# Applications
+1. LED chaser circuits
+2. Timing and sequencing experiments
+3. Hobby electronics
+4. Educational demonstrations
+
+# Future Improvements
+- Add simulation
+- Adjustable speed control (potentiometer)
+- Microcontroller-based programmable patterns
